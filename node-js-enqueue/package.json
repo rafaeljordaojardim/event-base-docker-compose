@@ -1,0 +1,17 @@
+{
+  "name": "js-enqueue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  }
+}
